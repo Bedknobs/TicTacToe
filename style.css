@@ -1,0 +1,12 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 30rem;
+    margin: auto;
+}
+
+.container button {
+    width: 10rem;
+    height: 10rem;
+    cursor: pointer;
+}
